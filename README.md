@@ -1,4 +1,4 @@
-# [Bikcraft](https://whoisangelo.github.io/bikcraft/index.html)
+# [Bikcraft](https://whoisangelo.github.io/bikcraft/)
 
 <h1>
     <img src="./img/presentation.gif">
